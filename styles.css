@@ -1,0 +1,95 @@
+.container-fluid
+{
+    padding: 0% 2%;
+}
+.navbar
+{
+    padding-bottom: 1.5rem;
+
+}
+.navbar-brand
+{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight : bolder;
+    color: white;
+}
+.nav-item
+{
+    padding: 0px 18px;
+}
+.nav-link
+{
+    font-size: 1.5rem;
+    font-family: "Montserrat-Light";
+    color: white;
+}
+.main
+{
+   background-color: black;
+}
+.vishnu
+{
+    background-image:url('background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position:center;
+    height: 100vh;
+    position: relative;
+}
+.c1
+{
+    padding-left: 30%;
+    padding-top: 6%;
+    width: 100%;
+    height: 80%;
+}
+.description
+{
+    padding-left: 5%;
+    padding-top: 20%;
+    position: relative;
+}
+.desc1
+{
+    padding-left: 5%;
+    position: relative;
+}
+.anchor
+{
+    text-decoration: none;
+    padding-left: 5%;
+    font-size: 25px;
+    color: black;
+    position: relative;
+}
+.anchor:hover
+{
+    color: burlywood;
+}
+.c2
+{
+    padding-left: 15%;
+    padding-top: 3%;
+    width: 750px;
+    height: 600px;
+    position: relative;
+
+}
+.c3
+{
+    padding-left: 15%;
+    padding-top: 3%;
+    width: 750px;
+    height: 600px;
+    position: relative;
+}
+.c4
+{
+    padding-left: 15%;
+    padding-top: 3%;
+    width: 750px;
+    height: 600px;
+    position: relative;
+}
